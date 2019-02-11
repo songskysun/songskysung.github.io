@@ -34,5 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Other Blog
 
-[네이버 블로그](https://blog.naver.com/songskysun)
-[티스토리 블로그](https://sinjobs.tistoy.com) 
+[네이버 블로그](https://blog.naver.com/songskysun) <br>
+[티스토리 블로그](https://sinjobs.tistory.com) 
