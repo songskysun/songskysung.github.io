@@ -1,12 +1,10 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: SINJOBS WORLD
+author: sinjobs
+email: songskysun@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 공부를 게을리한 사람의 개발자로써 생존기
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: 
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
