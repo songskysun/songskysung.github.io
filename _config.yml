@@ -14,7 +14,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Hyesung Shin
-  tagline: Developer. DJ
+  tagline: Developer || DJ
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
