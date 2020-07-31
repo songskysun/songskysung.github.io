@@ -1,8 +1,7 @@
 ---
-layout: home
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: post
+permalink: /
 ---
-
-### Other Blog
-
-[네이버 블로그](https://blog.naver.com/songskysun) <br>
-[티스토리 블로그](https://sinjobs.tistory.com) 
