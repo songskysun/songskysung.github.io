@@ -1,41 +1,16 @@
-title: SINJOBS WORLD
-author: sinjobs
-email: songskysun@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
- 공부를 게을리한 사람의 개발자로써 생존기
-show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: 
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
-
-permalink: /posts/:title/
-texture:
-  title: Hyesung Shin
-  tagline: Developer || DJ
-  date_format: "%b %-d, %Y"
-  style: black
-  showNav: true
-  showPicker: false
-
-  # generate social links in footer
-  social_links:
-    twitter: songskysun
-    github:  songskysun
-    instargram: deejaycoma
-    rss: rss
- 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+title: Simply Jekyll
+name: John Doe
+user_description: Programmer (Interested in Philosophy and Math)
+notes_url: "https://simply-jekyll.netlify.app"
+profile_pic: /assets/img/profile.png
+favicon: /assets/img/favicon.png
+copyright_name: John Doe
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+encoding: utf-8
 
 # Build settings
-# theme: texture
-
+theme: null
 plugins:
   - jekyll-feed 
   - jekyll-sitemap 
