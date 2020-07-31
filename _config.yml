@@ -37,5 +37,40 @@ texture:
 # theme: texture
 
 plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed 
+  - jekyll-sitemap 
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  syntax_highlighter: rouge
+
+sass:
+  style: compressed
+
+collections:
+    notes:
+      output: true
+      permalink: /notes/:title
+
+disqus:
+  shortname: raghuveerdotnet
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /posts/:title
+      content-type: post
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: post
+      content-type: notes
