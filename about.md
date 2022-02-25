@@ -12,7 +12,7 @@ content-type: eg
 
 ### Contact
 
-Email: songskysun@gmail.com <
+Email: songskysun@gmail.com <br>
 [github profile](https://github.com/songskysun)
 
 ---
